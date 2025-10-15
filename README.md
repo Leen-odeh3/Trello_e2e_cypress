@@ -58,7 +58,13 @@ Feature: Create Board
 
 ```
 
+## Author
 
+Leen Odeh
+[QA Engineer]
+📧 <a href="mailto:leenodeh287@gmail.com">leenodeh287@gmail.com
+</a>
+🔗 <a href="https://www.linkedin.com/in/leen-odeh3/" target="_blank">LinkedIn: LeenOdeh</a>
 
 #### Feel free to fork this repository and submit pull requests for new features or improvements!
 
